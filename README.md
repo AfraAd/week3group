@@ -1,9 +1,9 @@
 # week3group
-Exploring API Submission + "\n"
+Exploring API Submission 
 
-## Project Domain ideas + "\n"
-recipe organizer + "\n"
--make it interactive; store, organize, and set a timer… + "\n"
--input ingredients and output the possible menu options + "\n"
-+ "\n"
+## Project Domain ideas
+recipe organizer 
+- make it interactive; store, organize, and set a timer
+- input ingredients and output the possible menu options 
+
 API: https://developer.edamam.com/edamam-docs-recipe-api 
