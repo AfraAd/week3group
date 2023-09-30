@@ -16,3 +16,5 @@ Exploring API Submission
 - add up the total dishes and servings to the final sum.
 
 API: (https://api.edamam.com/api/recipes/v2)
+
+<img width="960" alt="image" src="https://github.com/AfraAd/week3group/assets/128275390/b1609184-c560-4120-8298-3ce9babefd89">
