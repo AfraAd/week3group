@@ -9,10 +9,10 @@ Recipe Organizer
 - specify the level of certain nutrients to accommodate for more details dietary requirements. 
 - interact with the organizer to store, and organize different recipes, and set up a timer when actually cooking
 
-API: (https://api.edamam.com/api/recipes/v2)
-
 Nutrition Analysis
 - input the recipe name or ingredient list and produce the relevant nutrition reference. 
 - input the amount/number of servings to generate detailed values.
 - generate the specific nutrition values for protein, sugar, vitamins, microelements, etc.
-- add up the dishes and servings to output the final sum. 
+- add up the dishes and servings to output the final sum.
+
+API: (https://api.edamam.com/api/recipes/v2)
