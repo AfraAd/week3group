@@ -18,5 +18,6 @@ Exploring API Submission
 **API**: (https://api.edamam.com/api/recipes/v2)
 
 **Screenshot of using Postman to interact with the API**
-<img width="960" alt="image" src="https://github.com/AfraAd/week3group/assets/128275390/77b8c2ec-4d1e-4385-b8d1-62e5d15189d1">
+<img width="958" alt="image" src="https://github.com/AfraAd/week3group/assets/128275390/c069ba18-d560-4997-8201-0e02671206b0">
+
 
