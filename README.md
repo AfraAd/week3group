@@ -12,16 +12,22 @@ Exploring API Submission
 **Nutrition Analysis**
 - input the recipe name or ingredient list and produce the relevant suggested nutritional values. 
 - input the weight/number of servings to generate detailed values.
-- generate the specific nutrition values for protein, sugar, vitamins, microelements, etc.
+- generate the specific nutrition values for protein, sugar, vitamins, micro-elements, etc.
 - add up the total dishes and servings to the final sum.
 
+## High Level Description
+Our application will be a recipe browser that also provides nutritional data for specific ingredients and recipes.
+
+## API Documentation
 **API**: (https://api.edamam.com/api/recipes/v2)
 
-**Screenshot of using Postman to interact with the API**
+**Site with our API info**: (https://developer.edamam.com/edamam-docs-recipe-api)
+
+## Screenshot of using Postman to interact with the API
 
 <img width="958" alt="image" src="https://github.com/AfraAd/week3group/assets/128275390/c069ba18-d560-4997-8201-0e02671206b0">
 
-**Example of output when we send our request**
+## Example of output when we send our request
 
 Note the response on the requests differs for each request. This is an example of a possible recipe in our response
 
@@ -125,3 +131,6 @@ Note the response on the requests differs for each request. This is an example o
       "schemaOrgTag":null,"total":2.983908750005604,"hasRDI":true,"daily":229.5314423081234,"unit":"mg"},{"label":"Niacin (B3)","tag":"NIA",
       "schemaOrgTag":null,"total":67.92107125004479,"hasRDI":true,"daily":424.5066953127799,"unit":"mg"},{"label":"Vitamin B6","tag":"VITB6A"}
 ```
+
+## Any technical problems blocking progress
+N/A
